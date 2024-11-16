@@ -1,0 +1,11 @@
+.elastio-comment {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.elastio-editable {
+  background-color: #f9f9f9;
+  padding: 10px;
+}
